@@ -2,3 +2,5 @@
 matplotlib
 numpy
 deap
+ipython
+ipykernel
